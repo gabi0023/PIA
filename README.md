@@ -1,52 +1,58 @@
 # Descripción General del Repositorio
 
 Datos del alumno:
-#### Alumna: Gabriela Hermenegildo Otero 
-#### Matricula: 1990138
+##### Alumna: Gabriela Hermenegildo Otero
+##### Matricula: 1990138
+
+---
+Este repositorio contiene las siguientes herramientas para ciberseguridad: 
+
+ 
+> Manejo de APIs:
+> 
+> El manejo de APIs con python
+ 
+
+> Scripting en PowerShell:
+> 
+> Scripts de PowerShell para realizar un escaneo a los puertos abiertos
 
 
-El siguiente repositorio contiene todas las actividades echas por la alumna Gabriela para el laboratorio de la clase de ciberseguridad: 
+> Scripting en Bash:
+> 
+>  Scripts de Bash para realizar un escaneo a los puertos abiertos 
 
 
-* Manejo de APIs:
-
-   Se practica con python el manejo de APIs
-   
-
-* Scripting en PowerShell:
-
-  se crean scripts de PowerShell para realizar un escaneo a los puertos abiertos
-
-* Scripting en Bash:
-  
-  Se crean scripts de Bash para realizar un escaneo a los puertos abiertos 
-
-* Encoding & Decoding:
-
-  Se utilizan scripts para codifica y decodificar textos e imagenes y se crea un script para cifrar mensajes
-
-* Webscraping:
-
-  corre diferentes scripts para realizar analisis de los datos de una pagina
-
-* Nmap:
-
-  realiza un escaneo a los dispositivos conectados a la red y sus puertos abiertos
-
-* FTP:
-
-  Se crea una carpeta compartida entre dos maquinas que ambas pueden modificar
-
-* Escáner de Puertos:
-
-  se realizar un escaneo de puertos abiertos
+> Encoding & Decoding:
+>
+>  Scripts para codifica y decodificar textos e imágenes y un script para cifrar mensajes
 
 
-* Envió de Correos:
+> Webscraping:
+>
+>  Corre diferentes scripts para realizar analisis de los datos de una página
 
-  se crea un script que permite el envio de un correo
+
+> Nmap:
+>
+>  Realiza un escaneo a los dispositivos conectados a la red y sus puertos abiertos
 
 
-* Automatización de Tareas:
+> FTP:
+>
+>  Se crea una carpeta compartida entre dos máquinas que ambas pueden modificar
 
-  se realizan scripts para programar la ejecucion de tareas 
+
+> Escáner de Puertos:
+>
+>  Realizar un escaneo de puertos abiertos
+
+
+> Envío de Correos:
+>
+>  Script que permite el envío de un correo 
+
+
+> Automatización de Tareas:
+>
+>  Scripts para programar la ejecución de tareas 
