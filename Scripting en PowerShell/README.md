@@ -1,5 +1,5 @@
 #### OBJETIVO:
-Que el estudiante se familiarice con scripts en PowerShell  y reconozca los puertos activos
+Que el estudiante sepa reconocer los puertos abiertos utilizando la herramienta PowerShell
 
 #### descripción del contenido (de los scripts): 
-Reconoce la ip y la subred y en base a eso  hace un reconocimiento de los puertos activos
+Ambos scripts reconocen la ip y la subred y en base a eso hace un reconocimiento de los puertos activos
