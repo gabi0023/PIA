@@ -7,7 +7,7 @@ from ftplib import FTP
 #
 #Estableciendo conexion a un servidor
 #
-ftp=FTP("192.168.56.3")
+ftp=FTP("192.168.*.*")
 #Accediendo con el usuario johnny
 print(ftp.login("johnny", "1990138"))
 #se mueve al directorio upload
